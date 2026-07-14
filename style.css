@@ -424,8 +424,10 @@ body{
 }
 
 .Trendingbooks{
-   
+
 }
+
+
 
 .section-header h2{
     font-size:25px;
@@ -624,6 +626,7 @@ body{
 
     /* Hero */
     .hero-banner {
+        padding-top: 30px;
         height: 220px;
         padding: 15px;
     }
@@ -668,6 +671,7 @@ body{
 @media (max-width: 360px) {
 
     .hero-banner {
+        padding-top:30px;
         height: 200px;
     }
 
